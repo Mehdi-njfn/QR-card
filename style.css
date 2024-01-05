@@ -1,0 +1,40 @@
+
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=swap");
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body {
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h3 {
+  color: hsl(218, 44%, 22%);
+  font-size: 1.3rem;
+}
+.title {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+@font-face {
+  font-family: outfit;
+  src: url(https://fonts.google.com/specimen/Outfit);
+}
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 1rem;
+  line-height: 1.2rem;
+}
+.card {
+  border-radius: 1em;
+}
+.item1 {
+  /* margin-left: auto; */
+}
+section {
+  width: fit-content;
+}
